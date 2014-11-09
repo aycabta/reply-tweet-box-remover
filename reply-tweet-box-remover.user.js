@@ -2,7 +2,7 @@
 // @name       Reply Tweet Box Remover
 // @namespace  http://aycabta.github.io/
 // @version    0.1.0
-// @description  Remove the 'reply tweet box' on tweet permalink for screenshot.
+// @description  Remove the 'reply tweet box' on tweet permalink for screenshot, when click your icon previous the box.
 // @include    /^https:\/\/twitter.com\/[0-9a-zA-Z_]+\/status\/\d+/
 // @copyright  2014+, Code Ass
 // ==/UserScript==
